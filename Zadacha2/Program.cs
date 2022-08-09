@@ -10,7 +10,7 @@ Console.WriteLine("Введите третье число для сравнен�
 int namber3 = Convert.ToInt32(Console.ReadLine());
 
 int max = namber1;
-    if (namber1 > max) namber1 = max;
+    if (namber1 > max) max = namber1;
     if (namber2 > max) max = namber2;
     if (namber3 > max) max = namber3;
     
