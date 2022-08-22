@@ -9,8 +9,8 @@ double result = 1;
 double i = 0;
 while (i <= namberB - 1)
 {
-        result = result * namberA;
-        i++;
+    result = result * namberA;
+    i++;
 
 }
 
