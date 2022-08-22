@@ -2,11 +2,11 @@
 //Напишите цикл, в который принимает на вход два числа А и В, и возводит число А в натуральную степень В.
 
 Console.WriteLine("Введите число А ");
-int namberA = Convert.ToInt32(Console.ReadLine());
+double namberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число B ");
-int namberB = Convert.ToInt32(Console.ReadLine());
-int result = 1;
-int i = 0;
+double namberB = Convert.ToInt32(Console.ReadLine());
+double result = 1;
+double i = 0;
 while (i <= namberB - 1)
 {
         result = result * namberA;
