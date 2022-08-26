@@ -1,0 +1,15 @@
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.csproj.AssemblyReference.cache
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.AssemblyInfoInputs.cache
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.AssemblyInfo.cs
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.csproj.CoreCompileInputs.cache
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\bin\MCD\Debug\net6.0\Zadacha18.exe
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\bin\MCD\Debug\net6.0\Zadacha18.deps.json
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\bin\MCD\Debug\net6.0\Zadacha18.runtimeconfig.json
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\bin\MCD\Debug\net6.0\Zadacha18.dll
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\bin\MCD\Debug\net6.0\Zadacha18.pdb
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.dll
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\refint\Zadacha18.dll
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.pdb
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\Zadacha18.genruntimeconfig.cache
+C:\Users\Alnichenkoff\Desktop\Homework\Zadacha18\obj\MCD\Debug\net6.0\ref\Zadacha18.dll
