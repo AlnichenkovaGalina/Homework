@@ -15,12 +15,12 @@ if (n > 10000 && n < 99999)
 
     if (n1 == n5 && n2 == n4)
     {
-        System.Console.WriteLine(n + " - число палиндром");
+       Console.WriteLine(n + " - число палиндром");
     }
 
     else
     {
-        System.Console.WriteLine(n + " - число не палиндром");
+       Console.WriteLine(n + " - число не палиндром");
     }
 
 }
