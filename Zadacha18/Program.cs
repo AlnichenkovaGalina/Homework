@@ -12,7 +12,7 @@ for (int i = 0; i < array.Length; i++)
 int size = array.Length / 2;
 int[] result = new int[size];
 
-if (array.Length % 2 == 0) size++;
+if (array.Length % 2 == 1) size++;
 
 for (int i = 0; i < array.Length / 2; i++)
 
@@ -27,9 +27,3 @@ for (int i = 0; i < array.Length / 2; i++)
     Console.WriteLine();
     Console.Write(result[i] + " ");
 }
-
-
-
-
-
-
