@@ -14,16 +14,16 @@ ProductMatrix(Matrix);
 Console.WriteLine("Произведение двух матриц: ");
 WriteArray(Matrix);
 
-void ProductMatrix (int[,] array)
+void ProductMatrix(int[,] array)
 {
-     for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
             for (int k = 0; k < array.GetLength(1); k++)
             {
-                Matrix [i,j] = Matrix [i,j] + (array1[i,k]*array2[k,j]);
-          
+                Matrix[i, j] = Matrix[i, j] + (array1[i, k] * array2[k, j]);
+
             }
         }
 
