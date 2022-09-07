@@ -27,3 +27,5 @@ string recursion(int M, int N)
 
 Console.WriteLine("Все натуральные числа в промежутке от M до N ");
 Console.WriteLine(recursion(M, N));
+
+
